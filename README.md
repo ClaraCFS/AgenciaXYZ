@@ -1,6 +1,6 @@
 # Agência XYZ 
 
-Bem-vindo ao site da agência fictiícia 'XYZ'! Este repositório contém o código-fonte e os recursos para o nosso site, que pode ser acessado em [https://claracfs.github.io/AgenciaXYZ/](https://claracfs.github.io/AgenciaXYZ/).
+Bem-vindo ao site da agência fictiícia 'XYZ'! Este repositório contém o código-fonte e os recursos para este site, que pode ser acessado em [https://claracfs.github.io/AgenciaXYZ/](https://claracfs.github.io/AgenciaXYZ/).
 
 ## Como Contribuir
 
