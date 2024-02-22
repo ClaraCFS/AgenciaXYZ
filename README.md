@@ -4,7 +4,7 @@ Bem-vindo ao site da agência fictiícia 'XYZ'! Este repositório contém o cód
 
 ## Como Contribuir
 
-Se você estiver interessado em contribuir para o desenvolvimento do site, ficaremos felizes em receber sua colaboração. Aqui estão algumas maneiras de contribuir:
+Se você estiver interessado em contribuir para o desenvolvimento do site, ficarei feliz em receber sua colaboração. Aqui estão algumas maneiras de contribuir:
 
 1. **Reportar Problemas:** Se você encontrar algum problema ou bug no site, por favor, crie uma issue neste repositório para que possamos corrigi-lo.
 
