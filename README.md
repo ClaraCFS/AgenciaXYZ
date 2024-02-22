@@ -1,10 +1,6 @@
-# Agência XYZ - Site Oficial
+# Agência XYZ 
 
-Bem-vindo ao site oficial da Agência XYZ! Este repositório contém o código-fonte e os recursos para o nosso site, que pode ser acessado em [https://claracfs.github.io/AgenciaXYZ/](https://claracfs.github.io/AgenciaXYZ/).
-
-## Sobre a Agência XYZ
-
-A Agência XYZ é uma empresa dedicada a fornecer soluções criativas e inovadoras em marketing digital. Este site foi desenvolvido para apresentar nossa empresa, mostrar nosso portfólio e manter nossos clientes e parceiros informados sobre nossos serviços e projetos.
+Bem-vindo ao site da agência fictiícia 'XYZ'! Este repositório contém o código-fonte e os recursos para o nosso site, que pode ser acessado em [https://claracfs.github.io/AgenciaXYZ/](https://claracfs.github.io/AgenciaXYZ/).
 
 ## Como Contribuir
 
@@ -32,8 +28,4 @@ Este site foi desenvolvido utilizando as seguintes tecnologias:
 - CSS3
 - JavaScript
 
-## Contato
-
-Para entrar em contato conosco, visite a seção de contato em nosso site [https://claracfs.github.io/AgenciaXYZ/contact.html](https://claracfs.github.io/AgenciaXYZ/contact.html).
-
-Obrigado por visitar o site da Agência XYZ!
+Obrigada por viaitar meu repositório!
